@@ -36,4 +36,4 @@ Sekundäre Verdienste: Grundausbildung als Techniker.
 
 ### Kontakt
 
-[contact@sternenflotten-divisoin.net](mailto:contact@sternenflotten-division.net)
+[contact@sternenflotten-division.net](mailto:contact@sternenflotten-division.net)
