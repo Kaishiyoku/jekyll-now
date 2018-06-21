@@ -6,4 +6,4 @@ title: Aktueller Status
 Derzeitiger Standort: Sternenflottenakademie, Erde  
 Status: Eine Woche nach dem Abschluss
 
-*no be written soon*
+*to be written soon*
