@@ -8,7 +8,6 @@ permalink: /about/
 
 - Rang: Kadett 2. Grades
 - Derzeitiger Stützpunkt: Sternenflottenakademie, Erde
-
 - Alter: 21
 - Größe: 1,85m
 - Gewicht: 82kg
