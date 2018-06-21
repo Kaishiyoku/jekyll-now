@@ -36,4 +36,4 @@ Sekundäre Verdienste: Grundausbildung als Techniker.
 
 ### Kontakt
 
-[dmp@nfze.de](mailto:dmp@nfze.de)
+[contact@sternenflotten-divisoin.net](mailto:contact@sternenflotten-division.net)
