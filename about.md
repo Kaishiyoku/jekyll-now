@@ -6,9 +6,9 @@ permalink: /about/
 
 ### Dienstakte von Chester Freeman
 
-- Rang: Kadett 2. Grades
+- Rang: Ensign
 - Derzeitiger Stützpunkt: Sternenflottenakademie, Erde
-- Alter: 21
+- Alter: 24
 - Größe: 1,85m
 - Gewicht: 82kg
 - Augen: Blaugrau
