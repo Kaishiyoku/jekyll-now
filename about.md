@@ -26,7 +26,7 @@ permalink: /about/
 | Augenfarbe:                   | Blau |
 | Teint/Hautfarbe:              | Weiß |
 | Größe:                        | 179cm |
-| Besondere Erkennungsmerkmale: | |
+| Besondere<br>Erkennungsmerkmale: | |
 
 #### Familie
 | Bezeichnung  | Wert |
