@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Lebenslauf von Chester Freeman
 
-### Persönliche Daten
+#### Persönliche Daten
 | Bezeichnung       | Wert |
 |-------------------|------|
 | Name:             | Freeman |
