@@ -4,34 +4,54 @@ title: Dienstakte
 permalink: /about/
 ---
 
-### Dienstakte von Chester Freeman
+### Lebenslauf von Chester Freeman
 
-- Rang: Ensign
-- Derzeitiger Stützpunkt: Sternenflottenakademie, Erde
-- Alter: 24
-- Größe: 1,85m
-- Gewicht: 82kg
-- Augen: Blaugrau
-- Haare: Dunkelbraun
+#### Persönliche Daten
+Name: Freeman
+Vorname: Chester
+Geburtsjahr: 2374
+Geburtsort: Tschita (Sibirien)
+Heimatplanet: Erde
+Spezies: Mensch
+Familienstand: ledig
+Interessen: Jagen, Schwimmen
 
-Ausbildung auf der Akademie:
-- Sicherheit und Taktik
-- Sicherheitsoffizier
+#### Äußeres Erscheinungsbild
+Statur: 
+Haarfarbe: Braun
+Augenfarbe: Blau
+Teint/Hautfarbe: Weiß
+Größe: 179cm
+Besondere Erkennungsmerkmale: 
 
-Chester Freeman wurde auf dem Planeten Zion geborden. Da es nur eine Kolonie mit etwa 3000 Einwohnern war, flogen dort selten Schiffe vorbei. Er ging zwar zur Schule, wo seine Mutter Lehrerin war; die Highscool und das College mussten aber etwas warten, da es früher noch keine weiterführenden Schulen auf dem Planeten gab. Die Highscool absolvierte er mit durchschnittlichen Noten; das College mit leicht überdurchschnittlichen.
+#### Familie
+Mutter: Irina
+Vater: David
+Geschwister: /
+Kinder: /
+Ehepartner: /
 
-Auf dem College lernte er Janine Till kennen - sie befreundeten sich. Kurze Zeit später verschwand seine Mutter Jasmine Freeman plötzlich. Schwer gekränkt und am Boden zerstört hatte für ihn das Leben keinen Sinn mehr, da er Niemanden mehr hatte. Seinen Vater hatte er erst fünf mal gesehen, da er an einem geheimen Forschungsprojekt arbeitet.
+#### Werdegang
+- (Jahr) (Ereigniss)
 
-In dieser Zeit tröstete ihn Janine und sie verliebten sich ineinander. Beide entschieden sich, mit der USS Impact zum Planeten Oasis zu fliegen und dort ein Haus zu bauen. Noch nicht lange dort lebend, teilte er seiner mittlerweile Verlobten mit, die Sternenflottenakademie besuchen zu wollen. Sie ließ ihn gehen, aber unter einer Bedingung - sie mitzunehmen.
+#### Besondere Fähigkeiten
+Physische Besonderheiten: 
+Psychische Besonderheiten: 
 
-Dort absolvierte Chester die Ausbildung zum Sicherheitsoffizier, daneben noch Grundkenntnisse in Technik. Janine absolvierte die Ausbildung zum Captain. Einen Monat soöter schon wurde sie auf die USS Reliant beordert. Dieses Schiff, so versicherte sie, würde nur für die Überwachung des Sternenflottenraums zuständig sein, sodass man sich trotzdem noch häufiger zu Gesicht bekommt.
+Spezialgebiete:
 
-Chester selbst wollte unbeding zur 1. Sternenflotten Division. Seine Bewerbung dort wurde ihm nach kurzer Zeit zugesagt; nun plant er und Janine, bald zu heiraten.
+Ausbildung:
 
-Absolvierung der Akademie: Mit Bravur und immer vorbildlich
-Verdienste: Ausbildung zum Sicherheitsoffizier
-Belobigungen: "Chester Freeman ist - wie auch schon sein Vater - taktisch begabt."
-Sekundäre Verdienste: Grundausbildung als Techniker.
+Wesensart/Charakter: (Wie ist der Charakter drauf)
+
+Charakteristika
+
+Stärken:
+
+
+Schwächen:
+
+ausführlicher Lebenslauf:
 
 
 ### Kontakt
