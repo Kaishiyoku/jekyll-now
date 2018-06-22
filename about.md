@@ -6,8 +6,9 @@ permalink: /about/
 
 ### Lebenslauf von Chester Freeman
 
-| Persönliche Daten | |
-|-------------------|-|
+### Persönliche Daten
+| Bezeichnung       | Wert |
+|-------------------|------|
 | Name:             | Freeman |
 | Vorname:          | Chester |
 | Geburtsjahr:      | 2374 |
@@ -17,7 +18,8 @@ permalink: /about/
 | Familienstand:    | ledig |
 | Interessen:       | Jagen, Schwimmen |
 
-| Äußeres Erscheinungsbild      | |
+#### Äußeres Erscheinungsbild
+| Bezeichnung                   | Wert |
 |-------------------------------|-|
 | Statur:                       | |
 | Haarfarbe:                    | Braun |
@@ -26,7 +28,8 @@ permalink: /about/
 | Größe:                        | 179cm |
 | Besondere Erkennungsmerkmale: | |
 
-| Familie      | |
+#### Familie
+| Bezeichnung  | Wert |
 |--------------|-|
 | Mutter:      | Irina |
 | Vater:       | David |
