@@ -7,35 +7,29 @@ permalink: /about/
 ### Lebenslauf von Chester Freeman
 
 #### Persönliche Daten
-| Bezeichnung       | Wert |
-|-------------------|------|
-| Name:             | Freeman |
-| Vorname:          | Chester |
-| Geburtsjahr:      | 2374 |
-| Geburtsort:       | Tschita (Sibirien) |
-| Heimatplanet:     | Erde |
-| Spezies:          | Mensch |
-| Familienstand:    | ledig |
-| Interessen:       | Jagen, Schwimmen |
+- Name: Freeman
+- Vorname: Chester
+- Geburtsjahr:  2374
+- Geburtsort: Tschita (Sibirien)
+- Heimatplanet: Erde
+- Spezies: Mensch
+- Familienstand: ledig
+- Interessen: Jagen, Schwimmen
 
 #### Äußeres Erscheinungsbild
-| Bezeichnung                   | Wert |
-|-------------------------------|-|
-| Statur:                       | |
-| Haarfarbe:                    | Braun |
-| Augenfarbe:                   | Blau |
-| Teint/Hautfarbe:              | Weiß |
-| Größe:                        | 179cm |
-| Besondere<br>Erkennungsmerkmale: | |
+- Statur: 
+- Haarfarbe: Braun
+- Augenfarbe: Blau
+- Teint/Hautfarbe: Weiß
+- Größe: 179cm
+- Besondere Erkennungsmerkmale:
 
 #### Familie
-| Bezeichnung  | Wert |
-|--------------|-|
-| Mutter:      | Irina |
-| Vater:       | David |
-| Geschwister: | / |
-| Kinder:      | / |
-| Ehepartner:  | / |
+- Mutter: Irina Freeman
+- Vater: David Freeman
+- Geschwister: /
+- Kinder: /
+- Ehepartner: /
 
 #### Werdegang
 - (Jahr) (Ereigniss)
