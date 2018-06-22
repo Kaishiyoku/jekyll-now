@@ -44,8 +44,7 @@ Ausbildung:
 
 Wesensart/Charakter: (Wie ist der Charakter drauf)  
 
-Charakteristika:  
-
+#### Charakteristika:
 Stärken:  
 
 Schwächen:  
