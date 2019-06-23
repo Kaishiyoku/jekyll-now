@@ -14,7 +14,7 @@ permalink: /about/
 - Heimatplanet: Erde
 - Spezies: Mensch
 - Familienstand: ledig
-- Interessen: Gesang, Schwimmen
+- Interessen: Gesang, Schwimmen, Computertechnik
 
 #### Äußeres Erscheinungsbild
 - Statur: dünn
@@ -32,15 +32,17 @@ permalink: /about/
 - Ehepartner: /
 
 #### Werdegang
-- (Jahr) (Ereigniss)
+- 2391 Schulabschluss
+- 2393 Eintritt in die Sternenflottenakademie
+- 2397 Abschluss der Akademie und Einsatz
 
 #### Besondere Fähigkeiten
-Physische Besonderheiten:   
-Psychische Besonderheiten:   
+Physische Besonderheiten: keine
+Psychische Besonderheiten: abgehärtet gegen psychische Foltertechniken
 
-Spezialgebiete:  
+Spezialgebiete: Schildtechnik
 
-Ausbildung:  
+Ausbildung: Taktische Analyse, Überlebenstraining, Stellarkartographie, Technischer Erweiterungskurs
 
 Wesensart/Charakter: (Wie ist der Charakter drauf)  
 
