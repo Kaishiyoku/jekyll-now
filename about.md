@@ -14,20 +14,20 @@ permalink: /about/
 - Heimatplanet: Erde
 - Spezies: Mensch
 - Familienstand: ledig
-- Interessen: Jagen, Schwimmen
+- Interessen: Gesang, Schwimmen
 
 #### Äußeres Erscheinungsbild
-- Statur: 
+- Statur: dünn
 - Haarfarbe: Braun
 - Augenfarbe: Blau
 - Teint/Hautfarbe: Weiß
-- Größe: 179cm
-- Besondere Erkennungsmerkmale:
+- Größe: 172cm
+- Besondere Erkennungsmerkmale: /
 
 #### Familie
 - Mutter: Irina Freeman
 - Vater: David Freeman
-- Geschwister: /
+- Geschwister: Jacob Freeman
 - Kinder: /
 - Ehepartner: /
 
