@@ -52,13 +52,20 @@ Stärken:
 - rational
 - lösungsorientiert
 - ehrgeizig
+- respektvoll
 
 Schwächen:
 - übernimmt nicht gerne die Führung
 - ist oft sehr kühl
 
-ausführlicher Lebenslauf:  
+ausführlicher Lebenslauf:
+Chester wuchs in einer Stadt in Sibirien auf und war schon von Kindheit an häufig auf sich allein gestellt und musste sehr früh Veranwortung übernehmen, da sein Vater in einer wissenschaftlichen Forschungseinrichtung tätig ist und so die meiste Zeit dort verbrachte. Seine Mutter ist als Medizinierin auf einem Schiff der Sternenflotte tätig und bekam sie so nur selten direkt zu Gesicht. Die meiste Zeit verbrachte er daher mit sich selbst oder draußen.
 
+Er lernte sehr früh, dass man, um seine Ziele zu erreichen, alles geben und sich kontinuierlich weiterentwicklen muss. In der Schule war er der stille Außenseiter, lernte aber später, mit sozialen Interaktionen umzugehen, auch wenn er das Alleinsein vorzog.
+
+Die Zeit auf der Akademie war teilweise schwierig, obgleich seine Leistungen überdurchschnittlich waren. Dies war auf die etwas unterentwickelten sozialen Kompetenzen zurückzuführen, die er jedoch zum Abschluss hin gut ausbauen konnte.
+
+Wissen bedeutet ihm alles; es vergeht kein Tag, an dem Chester nicht etwas neues lernt. Seine Interessen für Technik und vor allem Taktik kamen nicht von ungefähr. Sein Vater brachte meist sehr viel Arbeit mit nach Hause und Chester kam damit desöfteren in Berührung. Während der Zeit auf der Akademie entwickelte er dann ein besonderes Interesse an der Schildtechnik, als sein Vater ihm eines Tages von einer Geschichte erzählte, bei dem bei einem Manöver die Schilde eines Schiffes auf die eines weiteren ausgedehnt wurden.
 
 ### Kontakt
 
