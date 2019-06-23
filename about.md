@@ -27,7 +27,7 @@ permalink: /about/
 #### Familie
 - Mutter: Irina Freeman
 - Vater: David Freeman
-- Geschwister: Jacob Freeman
+- Geschwister: /
 - Kinder: /
 - Ehepartner: /
 
