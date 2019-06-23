@@ -37,7 +37,7 @@ permalink: /about/
 - 2397 Abschluss der Akademie und Einsatz
 
 #### Besondere Fähigkeiten
-Physische Besonderheiten: keine  
+Physische Besonderheiten: /  
 Psychische Besonderheiten: schwer zu manipulieren
 
 Spezialgebiete: Schildtechnik  
