@@ -38,7 +38,7 @@ permalink: /about/
 
 #### Besondere Fähigkeiten
 Physische Besonderheiten: keine  
-Psychische Besonderheiten: abgehärtet gegen psychische Foltertechniken  
+Psychische Besonderheiten: schwer zu manipulieren
 
 Spezialgebiete: Schildtechnik  
 
