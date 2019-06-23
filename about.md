@@ -37,14 +37,14 @@ permalink: /about/
 - 2397 Abschluss der Akademie und Einsatz
 
 #### Besondere Fähigkeiten
-Physische Besonderheiten: keine
-Psychische Besonderheiten: abgehärtet gegen psychische Foltertechniken
+Physische Besonderheiten: keine  
+Psychische Besonderheiten: abgehärtet gegen psychische Foltertechniken  
 
-Spezialgebiete: Schildtechnik
+Spezialgebiete: Schildtechnik  
 
-Ausbildung: Taktische Analyse, Überlebenstraining, Stellarkartographie, Technischer Erweiterungskurs
+Ausbildung: Taktische Analyse, Überlebenstraining, Stellarkartographie, Technischer Erweiterungskurs  
 
-Wesensart/Charakter:
+Wesensart/Charakter:  
 Chester ist ein sehr kühler, rational denkender Mensch. Er bevorzugt daher das Alleinsein, hat sich aber seit seiner Kindheit dahingehend anpassen können, dass er auch gut mit anderen Lebewesen umgehen kann. Empathie zu empfinden, fällt ihm schwer; allerdings akzeptiert und toleriert er die Meinungen anderer und handelt in der Regel sehr bedacht. Seine Noten in der Schule waren sehr gut, er genoss den Ruf eines Außenseiters aufgrund seiner zurückgezogenen Art und seiner eher technischen Hobbys. Der Wille nach Verbesserung und die Arbeit bedeuten ihm alles.
 
 #### Charakteristika:
@@ -58,7 +58,7 @@ Schwächen:
 - übernimmt nicht gerne die Führung
 - ist oft sehr kühl
 
-ausführlicher Lebenslauf:
+ausführlicher Lebenslauf:  
 Chester wuchs in einer Stadt in Sibirien auf und war schon von Kindheit an häufig auf sich allein gestellt und musste sehr früh Veranwortung übernehmen, da sein Vater in einer wissenschaftlichen Forschungseinrichtung tätig ist und so die meiste Zeit dort verbrachte. Seine Mutter ist als Medizinierin auf einem Schiff der Sternenflotte tätig und bekam sie so nur selten direkt zu Gesicht. Die meiste Zeit verbrachte er daher mit sich selbst oder draußen.
 
 Er lernte sehr früh, dass man, um seine Ziele zu erreichen, alles geben und sich kontinuierlich weiterentwicklen muss. In der Schule war er der stille Außenseiter, lernte aber später, mit sozialen Interaktionen umzugehen, auch wenn er das Alleinsein vorzog.
