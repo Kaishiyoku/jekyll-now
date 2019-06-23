@@ -44,7 +44,8 @@ Spezialgebiete: Schildtechnik
 
 Ausbildung: Taktische Analyse, Überlebenstraining, Stellarkartographie, Technischer Erweiterungskurs
 
-Wesensart/Charakter: (Wie ist der Charakter drauf)  
+Wesensart/Charakter:
+Chester ist ein sehr kühler, rational denkender Mensch. Er bevorzugt daher das Alleinsein, hat sich aber seit seiner Kindheit dahingehend anpassen können, dass er auch gut mit anderen Lebewesen umgehen kann. Empathie zu empfinden, fällt ihm schwer; allerdings akzeptiert und toleriert er die Meinungen anderer und handelt in der Regel sehr bedacht. Seine Noten in der Schule waren sehr gut, er genoss den Ruf eines Außenseiters aufgrund seiner zurückgezogenen Art und seiner eher technischen Hobbys. Der Wille nach Verbesserung und die Arbeit bedeuten ihm alles.
 
 #### Charakteristika:
 Stärken:  
