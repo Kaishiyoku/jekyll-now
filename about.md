@@ -9,7 +9,7 @@ permalink: /about/
 #### Persönliche Daten
 - Name: Freeman
 - Vorname: Chester
-- Geburtsjahr:  2374
+- Geburtstag: 8.11.2374
 - Geburtsort: Tschita (Sibirien)
 - Heimatplanet: Erde
 - Spezies: Mensch
