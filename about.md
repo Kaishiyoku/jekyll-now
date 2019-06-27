@@ -6,6 +6,8 @@ permalink: /about/
 
 ### Lebenslauf von Chester Freeman
 
+Alternativer Name: Senichi Tanaka
+
 #### Persönliche Daten
 - Name: Freeman
 - Vorname: Chester
