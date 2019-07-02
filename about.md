@@ -4,13 +4,13 @@ title: Dienstakte
 permalink: /about/
 ---
 
-### Lebenslauf von Chester Freeman
+### Lebenslauf von Senichi Tanaka
 
-Alternativer Name: Senichi Tanaka
+Alternativer Name: Chester Freeman
 
 #### Persönliche Daten
-- Name: Freeman
-- Vorname: Chester
+- Name: Senichi
+- Vorname: Tanaka
 - Geburtstag: 8.11.2374
 - Geburtsort: Tschita (Sibirien)
 - Heimatplanet: Erde
@@ -28,9 +28,9 @@ Alternativer Name: Senichi Tanaka
 - Besondere Erkennungsmerkmale: /
 
 #### Familie
-- Mutter: Irina Freeman
-- Vater: David Freeman
-- Geschwister: Jacob Freeman
+- Mutter: Karina Tanaka
+- Vater: Kazuki Tanaka
+- Geschwister: Kenji Tanaka
 - Kinder: /
 - Ehepartner: /
 
@@ -62,7 +62,7 @@ Schwächen:
 - ist oft sehr kühl
 
 ausführlicher Lebenslauf:  
-Chester wuchs in einer Stadt in Sibirien auf und war schon von Kindheit an häufig auf sich allein gestellt und musste sehr früh Veranwortung übernehmen, da sein Vater in einer wissenschaftlichen Forschungseinrichtung tätig ist und so die meiste Zeit dort verbrachte. Seine Mutter ist als Medizinierin auf einem Schiff der Sternenflotte tätig und bekam sie so nur selten direkt zu Gesicht. Die meiste Zeit verbrachte er daher mit sich selbst oder draußen.
+Senichi wuchs in einer Stadt in Sibirien auf und war schon von Kindheit an häufig auf sich allein gestellt und musste sehr früh Veranwortung übernehmen, da sein Vater in einer wissenschaftlichen Forschungseinrichtung tätig ist und so die meiste Zeit dort verbrachte. Seine Mutter ist als Medizinierin auf einem Schiff der Sternenflotte tätig und bekam sie so nur selten direkt zu Gesicht. Die meiste Zeit verbrachte er daher mit sich selbst oder draußen.
 
 Er lernte sehr früh, dass man, um seine Ziele zu erreichen, alles geben und sich kontinuierlich weiterentwicklen muss. In der Schule war er der stille Außenseiter, lernte aber später, mit sozialen Interaktionen umzugehen, auch wenn er das Alleinsein vorzog.
 
