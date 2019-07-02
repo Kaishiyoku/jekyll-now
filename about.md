@@ -35,9 +35,11 @@ Alternativer Name: Chester Freeman
 - Ehepartner: /
 
 #### Werdegang
+- 2374 Geburt
 - 2391 Schulabschluss
 - 2393 Eintritt in die Sternenflottenakademie
 - 2397 Abschluss der Akademie und Einsatz
+- 2399 Versetzung auf die U.S.S Shenzhou als Taktischer Offizier
 
 #### Besondere Fähigkeiten
 Physische Besonderheiten: /  
