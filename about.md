@@ -48,7 +48,7 @@ Spezialgebiete: Schildtechnik
 Ausbildung: Taktische Analyse, Überlebenstraining, Stellarkartographie, Technischer Erweiterungskurs  
 
 Wesensart/Charakter:  
-Chester ist ein sehr kühler, rational denkender Mensch. Er bevorzugt daher das Alleinsein, hat sich aber seit seiner Kindheit dahingehend anpassen können, dass er auch gut mit anderen Lebewesen umgehen kann. Empathie zu empfinden, fällt ihm schwer; allerdings akzeptiert und toleriert er die Meinungen anderer und handelt in der Regel sehr bedacht. Seine Noten in der Schule waren sehr gut, er genoss den Ruf eines Außenseiters aufgrund seiner zurückgezogenen Art und seiner eher technischen Hobbys. Der Wille nach Verbesserung und die Arbeit bedeuten ihm alles.
+Senichi ist ein sehr kühler, rational denkender Mensch. Er bevorzugt daher das Alleinsein, hat sich aber seit seiner Kindheit dahingehend anpassen können, dass er auch gut mit anderen Lebewesen umgehen kann. Empathie zu empfinden, fällt ihm schwer; allerdings akzeptiert und toleriert er die Meinungen anderer und handelt in der Regel sehr bedacht. Seine Noten in der Schule waren sehr gut, er genoss den Ruf eines Außenseiters aufgrund seiner zurückgezogenen Art und seiner eher technischen Hobbys. Der Wille nach Verbesserung und die Arbeit bedeuten ihm alles.
 
 #### Charakteristika:
 Stärken:
@@ -62,13 +62,15 @@ Schwächen:
 - ist oft sehr kühl
 
 ausführlicher Lebenslauf:  
-Senichi wuchs in einer Stadt in Sibirien auf und war schon von Kindheit an häufig auf sich allein gestellt und musste sehr früh Veranwortung übernehmen, da sein Vater in einer wissenschaftlichen Forschungseinrichtung tätig ist und so die meiste Zeit dort verbrachte. Seine Mutter ist als Medizinierin auf einem Schiff der Sternenflotte tätig und bekam sie so nur selten direkt zu Gesicht. Die meiste Zeit verbrachte er daher mit sich selbst oder draußen.
+Senichi wuchs in einer Stadt namens Tschita in Sibirien auf und war schon von Kindheit an häufig auf sich allein gestellt und musste sehr früh Verantwortung übernehmen, da sein Vater Kazuki Tanaka in einer wissenschaftlichen Forschungseinrichtung tätig ist und so die meiste Zeit dort verbrachte. Seine Mutter Karina Tanaka (geb. Lasarew) ist als Medizinerin auf einem Schiff der Sternenflotte tätig und bekam sie so nur selten direkt zu Gesicht. Die meiste Zeit verbrachte er daher mit sich selbst oder draußen.
 
-Er lernte sehr früh, dass man, um seine Ziele zu erreichen, alles geben und sich kontinuierlich weiterentwicklen muss. In der Schule war er der stille Außenseiter, lernte aber später, mit sozialen Interaktionen umzugehen, auch wenn er das Alleinsein vorzog.
+2346 lernte sein Vater Kazuki seine zukünftige Ehefrau Karina kennen, als er aufgrund einer Verletzung bei einem Unfall im Labor im örtlichen Krankenhaus behandelt werden musste und Karina zu dieser Zeit als angehende Ärztin praktizierte. Sie heirateten und brachten zwei Kinder zur Welt, Senichi und Kenji, dem älteren Bruder, der sich momentan auf dem Mars befindet, wo er als Techniker arbeitet.
+
+Senichi lernte sehr früh, dass man, um seine Ziele zu erreichen, alles geben und sich kontinuierlich weiterentwickeln muss. In der Schule war er der stille Außenseiter, baute später aber soziale Kompetenzen auf, auch wenn der das Alleinsein weiterhin vorzog.
 
 Die Zeit auf der Akademie war teilweise schwierig, obgleich seine Leistungen überdurchschnittlich waren. Dies war auf die etwas unterentwickelten sozialen Kompetenzen zurückzuführen, die er jedoch zum Abschluss hin gut ausbauen konnte.
 
-Wissen bedeutet ihm alles; es vergeht kein Tag, an dem Chester nicht etwas neues lernt. Seine Interessen für Technik und vor allem Taktik kamen nicht von ungefähr. Sein Vater brachte meist sehr viel Arbeit mit nach Hause und Chester kam damit desöfteren in Berührung. Während der Zeit auf der Akademie entwickelte er dann ein besonderes Interesse an der Schildtechnik, als sein Vater ihm eines Tages von einer Geschichte erzählte, bei dem bei einem Manöver die Schilde eines Schiffes auf die eines weiteren ausgedehnt wurden.
+Wissen bedeutet ihm alles; es vergeht kein Tag, an dem Senichi nicht etwas neues lernt. Seine Interessen für Technik und vor allem Taktik kamen nicht von ungefähr. Sein Vater brachte meist sehr viel Arbeit mit nach Hause und Senichi kam damit desöftteren in Berührung. Während seiner Zeit auf der Akademie entwickelte er dann ein besonderes Interesse für Schildtechnik.
 
 ### Kontakt
 
