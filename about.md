@@ -71,4 +71,4 @@ Wissen bedeutet ihm alles; es vergeht kein Tag, an dem Chester nicht etwas neues
 
 ### Kontakt
 
-[contact@sternenflotten-division.net](mailto:contact@sternenflotten-division.net)
+[contact@sternenflotten-division.net](mailto:contact@sternenflotten-division.de)
