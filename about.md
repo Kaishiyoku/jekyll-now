@@ -76,4 +76,4 @@ Wissen bedeutet ihm alles; es vergeht kein Tag, an dem Senichi nicht etwas neues
 
 ### Kontakt
 
-[contact@sternenflotten-division.net](mailto:contact@sternenflotten-division.de)
+[contact@sternenflotten-division.de](mailto:contact@sternenflotten-division.de)
