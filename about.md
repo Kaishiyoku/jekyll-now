@@ -24,6 +24,7 @@ Alternativer Name: Senichi Tanaka
 - Augenfarbe: Blau
 - Teint/Hautfarbe: Weiß
 - Größe: 172cm
+- Gewicht: 64kg
 - Besondere Erkennungsmerkmale: /
 
 #### Familie
